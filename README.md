@@ -2,11 +2,19 @@
 
 I'm Yasamin, a 19-year-old Computer Engineering student at Medipol University 📚.
 
-💻 I'm passionate about coding, Artificial intelligence, and Mahcine Learning. I love exploring the endless possibilities of technology.
+🌟 **Passions:**
+- 💻 Coding enthusiast
+- 🤖 AI and Machine Learning aficionado
+- 🎵 Music lover
+- 🕵️‍♂️ Aspiring hacker
 
-🎵 Music is my other love! It's my go-to stress buster and creativity booster. 🎶
+🚀 **Interests:**
+- Exploring the world of technology
+- Contributing to open-source projects
+- Learning new programming languages
 
-🌟 I'm interested in hacking, and I'm constantly learning and improving my skills to stay up-to-date with the latest trends in cybersecurity. 🔐
+🌐 **Connect with me:**
+- LinkedIn: [Yasamin's Profile](https://www.linkedin.com/in/yasamin-akrami-50176824b/)
 
-Let's connect and learn together! Feel free to reach out. 📫
+Let's collaborate and create something amazing together! Feel free to reach out. 📫
 
