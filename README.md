@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yasamin, a 19-year-old Computer Engineering student at Medipol University 📚.
+I'm Yasamin, a Computer Engineering student at Medipol University 📚.
 
 🌟 **Passions:**
 - 💻 Coding enthusiast
