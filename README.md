@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yasamin, a Computer Engineering student at Medipol University 📚.
+I'm Yasamin 📚.
 
 🌟 **Passions:**
 - 💻 Coding enthusiast
